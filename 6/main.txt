@@ -1,0 +1,17 @@
+HTML Syntax
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Something</title>
+</head>
+<body>
+    <!-- Everything -->
+</body>
+</html>
+
+CSS file contains Everything inside <style></style>
+link it using <link> tag
+<link rel="stylesheet" href="css file location"> 
+
+<link> -> void element

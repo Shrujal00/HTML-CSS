@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.shop{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.apple{
+    margin-top: 12px;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.learn{
+    margin-top: 12px;
+    color: rgb(70, 107, 193);
+    font-size: 14px;
+}

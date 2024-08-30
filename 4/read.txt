@@ -1,0 +1,5 @@
+Use dev tools for
+- Color
+- Margin padding 
+
+Most of the css of an element can be found in the computed tab
