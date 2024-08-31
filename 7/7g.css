@@ -1,0 +1,24 @@
+img{
+    border-radius: 500px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+input{
+    border: none;
+    font-size: 20px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+button{
+    background-color: rgb(74, 154, 233);
+    border: none;
+    height: 40px;
+    width: 75px;
+    border-radius: 40px;
+    color: white;
+    cursor: pointer;
+}
